@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chris-Horne
 - 👀 I’m interested in Web Development/Web Design
-- 🌱 I’m currently learning Coding Responsive Websites through @Skillcrush
 - 💞️ I’m looking to collaborate on any beginner or entry-level projects!
 
 
