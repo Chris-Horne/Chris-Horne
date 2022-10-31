@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-Horne
-- 👀 I’m interested in Web Development/Web Design
-- 💞️ I’m looking to collaborate on any beginner or entry-level projects!
+- 👀 I’m interested in Web Development
+- 💞️ I’m looking to collaborate with you on your next project!
 
 
 <!---
